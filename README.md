@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
   1.WEB SCRAPING
   
-  2.PREVIEW_CARD(FREE_END MENTOR WEB PAGE)
+  2.PREVIEW_CARD(FREE_MENTOR WEB PAGE)
   
   3.GUESS THE NUMBER (** GAME **)
   
