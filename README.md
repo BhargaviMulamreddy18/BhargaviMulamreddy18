@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 **THIS REPO CONSISTS OF SOME INTERESTING PYTHON PROJECTS ... THOSE ARE:**
 
-1.PROJECTS
+**PROJECTS**
 
   1.WEB SCRAPING
   
